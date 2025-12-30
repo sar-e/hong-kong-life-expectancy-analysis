@@ -25,12 +25,14 @@ As a first-year Data Science student exploring actuarial career paths, I analyze
 | **Lowest Annual Change** | -1.87 years (2022) |
 | **Current Life Expectancy** | 85.25 years (2023) |
 | **Starting Point** | 65.70 years (1960) |
-| **Probability of Annual Improvement** | 92% |
+| **Probability of Annual Improvement** | 80.95% |
+| **Probability of Annual Decline** | 19.05% |
+| **Overall Volatility** | 0.44 |
 
 ### **Trend Insights**
-- **Rapid Growth Periods:** 1975-1985, 1995-2000, 2010-2021
-- **Recent Volatility:** 2022 showed unusual decline (-1.87 years), followed by recovery in 2023
-- **Steady Improvement:** Only 5 years showed decline in 64-year period
+- **Rapid Growth Periods (>0.5 years/year improvement):** 1979-1981, 1995-1997, 2013-2015
+- **Recent Volatility:** 2022 decline (-1.87 years) followed by 2023 recovery (+1.59 years)
+- **Steady Improvement:** 80.95% probability of annual improvement
 
 
 ## METHODOLOGY
