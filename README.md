@@ -17,6 +17,8 @@ As a first-year Data Science student exploring actuarial career paths, I analyze
 
 ## KEY FINDINGS
 ### **Statistical Summary**
+| Metric | Value |
+|--------|-------|
 | **Total Improvement (1960-2023)** | 19.6 years |
 | **Average Annual Increase** | 0.31 years |
 | **Highest Annual Increase** | 1.59 years (2023) |
