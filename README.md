@@ -1,6 +1,6 @@
 # Hong Kong Life Expectancy Analysis (1960-2023)
-Analysis of Hong Kong life expectancy trends (1960-2023) - Data Science portfolio project
-**Author:** [Sarah Waseem]
+- Analysis of Hong Kong life expectancy trends (1960-2023) - Data Science portfolio project
+- **Author:** [Sarah Waseem]
 
 
 ## TL;DR
